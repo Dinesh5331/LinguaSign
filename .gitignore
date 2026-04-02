@@ -1,0 +1,13 @@
+__py__cache__/
+mp_env/
+videos/
+words/
+hand_detection.py 
+hand_tracking.py
+sign_data.csv
+
+
+
+*.pkl
+*.pth
+
